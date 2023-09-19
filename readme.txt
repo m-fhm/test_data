@@ -5,9 +5,9 @@ This service provides a set of APIs to manage resumes. Users can upload resumes,
 
 ## Prerequisites
 
-1. Docker & Docker Compose
-2. AWS account and S3 bucket (for storing resumes)
-3. AWS credentials (`AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`)
+1. **Docker & Docker Compose**
+2. **AWS account and S3 bucket (for storing resumes)**
+3. **AWS credentials (`AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`)**
 
 ## Setting up the environment
 
